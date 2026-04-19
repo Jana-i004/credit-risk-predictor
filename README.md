@@ -115,6 +115,10 @@ An interactive Streamlit app allows users to:
 <img width="2028" height="2659" alt="low_risk" src="https://github.com/user-attachments/assets/af59853c-cc26-48dc-84fc-b544a92308d8" />
 
 
+<img width="2073" height="2667" alt="medium_risk" src="https://github.com/user-attachments/assets/4c781c50-409c-4ddd-906b-9bee05d78398" />
+
+
+
 <img width="2110" height="2740" alt="high_risk" src="https://github.com/user-attachments/assets/6292337c-044a-4a22-8420-f79245c46267" />
 
 
