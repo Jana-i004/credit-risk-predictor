@@ -101,6 +101,9 @@ The analysis revealed strong relationships:
 
 ## 🖥️ Application
 
+🔗 **Try the app here:**  
+https://credit-risk-predictor-dpl4mznx2reqemju8fyj3v.streamlit.app/
+
 An interactive Streamlit app allows users to:
 
 - Input financial data  
