@@ -94,7 +94,7 @@ The analysis revealed strong relationships:
 
 ### 📌 Feature Importance
 
-![Feature Importance]((https://github.com/Jana-i004/credit-risk-predictor/blob/31d5eecc565ae0e95543d07ed9ae4a5bd412e6c0/feature_importance.png)
+<img width="626" height="388" alt="feature_importance" src="https://github.com/user-attachments/assets/8679fa10-0d13-4b07-89b9-8fc7fe112aa5" />
 
 ---
 
