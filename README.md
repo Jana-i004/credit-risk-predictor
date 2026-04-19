@@ -10,10 +10,10 @@ This project combines **data analysis** and **machine learning** to understand c
 
 It follows a complete workflow:
 
-1. 📊 Customer behavior analysis  
-2. 🧠 Feature engineering  
-3. 🤖 Machine learning modeling  
-4. 🖥️ Interactive prediction application  
+- 📊 Customer behavior analysis  
+- 🧠 Feature engineering  
+- 🤖 Machine learning modeling  
+- 🖥️ Interactive prediction application  
 
 ---
 
@@ -46,6 +46,7 @@ To predict whether a customer is likely to **delay a payment** based on:
 An exploratory data analysis (EDA) was conducted to understand how customers behave financially.
 
 The analysis focused on:
+
 - Spending patterns  
 - Payment behavior  
 - Customer segmentation  
@@ -150,7 +151,7 @@ This project uses a dataset sourced from Kaggle:
 
 **Saudi Arabia BNPL Consumer Behavior & Credit Risk**
 
-🔗 [https://www.kaggle.com/[PUT-LINK-HERE]](https://www.kaggle.com/datasets/bshaye/saudi-arabia-bnpl-consumer-behavior-and-credit-risk)
+🔗 (https://www.kaggle.com/datasets/bshaye/saudi-arabia-bnpl-consumer-behavior-and-credit-risk)
 
 The dataset represents real-world customer financial behavior in the Saudi BNPL (Buy Now, Pay Later) market, and was used for both analysis and model training.
 
