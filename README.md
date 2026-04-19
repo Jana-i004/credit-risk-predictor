@@ -53,7 +53,8 @@ The analysis focused on:
 
 ### 📌 Customer Behavior Dashboard
 
-![Customer Behavior](images/customer_overview.png)
+<img width="1789" height="985" alt="Customer_Behavior_Dashboard" src="https://github.com/user-attachments/assets/599be18b-1acd-4fa9-88aa-11837d454826" />
+
 
 ---
 
@@ -108,11 +109,14 @@ An interactive Streamlit app allows users to:
 
 ### 📌 App Preview
 
-![Input](images/app_input.png)
+<img width="1374" height="774" alt="App_Default_Input" src="https://github.com/user-attachments/assets/91a95409-4689-4452-9ab2-6aee41b70c7d" />
 
-![Low Risk](images/low_risk.png)
 
-![High Risk](images/high_risk.png)
+<img width="2028" height="2659" alt="low_risk" src="https://github.com/user-attachments/assets/af59853c-cc26-48dc-84fc-b544a92308d8" />
+
+
+<img width="2110" height="2740" alt="high_risk" src="https://github.com/user-attachments/assets/6292337c-044a-4a22-8420-f79245c46267" />
+
 
 ---
 
