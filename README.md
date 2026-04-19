@@ -112,8 +112,6 @@ An interactive Streamlit app allows users to:
 
 ### 📌 App Preview
 
-<img width="1374" height="774" alt="App_Default_Input" src="https://github.com/user-attachments/assets/91a95409-4689-4452-9ab2-6aee41b70c7d" />
-
 
 <img width="2028" height="2659" alt="low_risk" src="https://github.com/user-attachments/assets/af59853c-cc26-48dc-84fc-b544a92308d8" />
 
