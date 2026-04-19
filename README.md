@@ -128,9 +128,7 @@ An interactive Streamlit app allows users to:
 
 ## 🔧 Model Design Considerations
 
-To improve model reliability, input values (such as the number of installments) were aligned with the training data distribution.
-
-This prevents out-of-distribution scenarios and ensures more consistent and realistic predictions.
+To ensure consistent predictions, input values were restricted to match the training data distribution.
 
 ---
 
