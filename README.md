@@ -141,5 +141,16 @@ This avoids unrealistic scenarios and improves model consistency.
 - Pandas  
 - Scikit-learn  
 - Streamlit  
-- Matplotlib & Seaborn  
+- Matplotlib & Seaborn
+
+---
+## 📊 Data Source
+
+This project uses a dataset sourced from Kaggle:
+
+**Saudi Arabia BNPL Consumer Behavior & Credit Risk**
+
+🔗 [https://www.kaggle.com/[PUT-LINK-HERE]](https://www.kaggle.com/datasets/bshaye/saudi-arabia-bnpl-consumer-behavior-and-credit-risk)
+
+The dataset represents real-world customer financial behavior in the Saudi BNPL (Buy Now, Pay Later) market, and was used for both analysis and model training.
 
